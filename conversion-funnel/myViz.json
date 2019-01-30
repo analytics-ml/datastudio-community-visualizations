@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "id": "concepts",
+      "heading": "Concepts",
+      "elements": [
+        {
+          "id": "barMetric",
+          "label": "Metric",
+          "type": "METRIC",
+          "options": {
+            "min": 2,
+            "max": 10
+          }
+        }
+      ]
+    }
+  ],
+  "style": [
+    {
+      "id": "colors",
+      "heading": "Colors",
+      "elements": [
+        {
+          "id": "barColor",
+          "label": "Bar Color",
+          "type": "FILL_COLOR",
+          "defaultValue": "#6B7FD7",
+          "dropValue": "#123123",
+          "incValue": "#321321"
+        }
+      ]
+    }
+  ]
+}
